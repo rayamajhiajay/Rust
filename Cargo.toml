@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "src/uniswap_snapshotter_v2",
+    "src/uniswap_calculator_v2",
+    "src/uniswap_relayer_v2",
+    "src/common"
+]
